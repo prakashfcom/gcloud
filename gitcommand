@@ -1,0 +1,15 @@
+git init
+
+git status
+
+git add .
+git commit -m "custum message"
+
+#adding repository
+git remote add orgin "url to repository"
+
+#push
+git push orgin master
+
+
+
